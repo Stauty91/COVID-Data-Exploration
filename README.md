@@ -1,3 +1,5 @@
+Visualization of the data in Tableau after SQL Scripting: https://public.tableau.com/app/profile/nils.stautmeister/viz/CovidDashboard_17229547249380/Dashboard1?publish=yes
+
 -- SQL DATA EXPLORATION SCRIPT 
 -- This script is to explore two COVID datasets, joining them together to get them prepared for visualizations
 
