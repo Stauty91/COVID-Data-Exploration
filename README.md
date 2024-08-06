@@ -1,4 +1,5 @@
 -- SQL DATA EXPLORATION SCRIPT 
+-- This script is to explore two COVID datasets, joining them together to get them prepared for visualizations
 
 -- Checking import of csv datasets
 
